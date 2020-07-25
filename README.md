@@ -8,3 +8,7 @@ Using Navmesh Agent.
 Moving Intelligent Agent Upstairs
 
 ![](gifs/upstairs.gif)
+
+Jumping  through block gaps using off mesh links
+
+![](gifs/jumping.gif)
